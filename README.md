@@ -11,5 +11,4 @@ Learn how to create a responsive website header using HTML, CSS, and JavaScript 
 Thanks,
 [codermj](https://www.youtube.com/@thecodermj/)
 
-![design](https://github.com/mjshofy/responsive-foodie-website-header/assets/76812554/6d89d32d-860f-4939-b229-7c7d1ba02dfd)
-
+![header - responsive website design using html and css](https://github.com/mjshofy/responsive-foodie-website-header/assets/76812554/d13b7fb7-b03a-49fc-b42e-b852795f4278)
