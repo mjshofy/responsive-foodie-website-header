@@ -6,9 +6,9 @@ Build a responsive foodie website by watching this step by step easy to follow w
 
 Learn how to create a responsive website header using HTML, CSS, and JavaScript by watching this tutorial video. Don't forget to Subscribe to my YouTube channel for getting more web development tutorial videos.
 
-💝 You can get the complete source code from [BuyMeACoffee](https://www.buymeacoffee.com/codermj/e/187523)
+🎁 Get Design Source Code from [Here](https://www.buymeacoffee.com/the.codermj/e/187523)
 
 Thanks,
-[codermj](https://www.youtube.com/@thecodermj/)
+[codermj](https://www.youtube.com/@the.codermj/)
 
 ![header - responsive website design using html and css](https://github.com/mjshofy/responsive-foodie-website-header/assets/76812554/d13b7fb7-b03a-49fc-b42e-b852795f4278)
